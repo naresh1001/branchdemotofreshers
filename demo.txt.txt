@@ -2,3 +2,5 @@ My first commit to master
 I have added the from dev
 Added from remote
 CHanges made in dev branch
+From features branch
+
